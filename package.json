@@ -1,0 +1,21 @@
+{
+  "name": "store-management-app",
+  "version": "1.0.0",
+  "description": "A Vue 3 application for store, product, sales, inventory, and reports management",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.2.0",
+    "vue-router": "^4.0.0",
+    "pinia": "^2.0.0"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0",
+    "tailwindcss": "^3.0.0",
+    "postcss": "^8.0.0",
+    "autoprefixer": "^10.0.0"
+  }
+}
